@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1009029124320",
+    "project_id": "anime-stream-app",
+    "storage_bucket": "anime-stream-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009029124320:android:7e85d5cedbe033625ac085",
+        "android_client_info": {
+          "package_name": "com.example.anime_stream_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009029124320-2c9jl31u1e6vvdqbv6rul9u2u9j5f2vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHa0Bk3_gB4SM8we3vetg1hup5gOI6ouo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009029124320-2c9jl31u1e6vvdqbv6rul9u2u9j5f2vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009029124320:android:1cecb629b31774ec5ac085",
+        "android_client_info": {
+          "package_name": "com.example.anime_streaming_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009029124320-ubrvjif973etnbjqbs14u2kkdajvvmba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anime_streaming_app",
+            "certificate_hash": "b9afc4363a23624c54e5370b240d9816b34d02bb"
+          }
+        },
+        {
+          "client_id": "1009029124320-2c9jl31u1e6vvdqbv6rul9u2u9j5f2vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHa0Bk3_gB4SM8we3vetg1hup5gOI6ouo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009029124320-2c9jl31u1e6vvdqbv6rul9u2u9j5f2vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
